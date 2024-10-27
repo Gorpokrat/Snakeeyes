@@ -1,0 +1,65 @@
+/* styles2.css */
+
+/* Определение цветов для различных классов текста */
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: orange;
+}
+
+.purple {
+    color: purple;
+}
+
+.yellow {
+    color: yellow;
+}
+
+/* Определение стилей для полужирного текста */
+.bold {
+    font-weight: bold;
+}
+
+/* Определение размеров текста */
+.xxsmall {
+    font-size: 0.5em; /* Очень маленький текст */
+}
+
+.xsmall {
+    font-size: 0.75em; /* Маленький текст */
+}
+
+.medium {
+    font-size: 1em; /* Средний текст */
+}
+
+.small {
+    font-size: 1.25em; /* Немного крупнее */
+}
+
+.large {
+    font-size: 1.5em; /* Крупный текст */
+}
+
+.xlarge {
+    font-size: 2em; /* Очень крупный текст */
+}
+
+.xxlarge {
+    font-size: 3em; /* Огромный текст */
+}
+
+/* Стилизация элементов списка */
+ul, ol {
+    margin-left: 20px; /* Отступ слева для списков */
+}
